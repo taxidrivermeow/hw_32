@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+.outerDiv {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.small {
+  width: 100px;
+  height: 100px;
+}
+
+.large {
+  width: 200px;
+  height: 200px;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
